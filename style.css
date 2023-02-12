@@ -84,6 +84,24 @@ footer{
     background-image: url(../assets/Term1Project2Cover.jpg);
 }
 
+.flex-item a#week1{
+    background-image: url(../assets/week1.png);
+}
+
+.flex-item a#week2{
+    background-image: url(../assets/tamagotchi.jpg);
+    color:black;
+}
+
+.flex-item a#week3{
+    background-image: url(../assets/week3.png);
+}
+
+.flex-item a#week4{
+    background-image: url(../assets/week4.png);
+}
+
+
 
 
 .flex-item a:hover{
