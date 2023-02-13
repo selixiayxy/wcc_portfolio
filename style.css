@@ -99,16 +99,16 @@ footer{
 }
 
 .flex-item a#week2{
-    background-image: url(../assets/tamagotchi.jpg);
+    background-image: url(./assets/tamagotchi.jpg);
    
 }
 
 .flex-item a#week3{
-    background-image: url(../assets/week3.png);
+    background-image: url(./assets/week3.png);
 }
 
 .flex-item a#week4{
-    background-image: url(../assets/week4.png);
+    background-image: url(./assets/week4.png);
 
 }
 
