@@ -9,6 +9,7 @@ body{
 
 h1{
     font-size: 30px;  
+    color:white;
     
 }
 
@@ -22,7 +23,9 @@ p{
 
 header{
     padding:0 3%;
+    color:white;
 }
+
 
 main{
     width:100%;
@@ -98,19 +101,25 @@ footer{
      
 }
 
-.flex-item a#week2{
-    background-image: url(../assets/tamagotchi.jpg);
+.flex-item a#week5{
+    background-image: url(../assets/week5.png);
    
 }
 
-.flex-item a#week3{
-    background-image: url(../assets/week3.png);
+.flex-item a#week8{
+    background-image: url(../assets/week8.png);
 }
 
-.flex-item a#week4{
-    background-image: url(../assets/week4.png);
+.flex-item a#week9{
+    background-image: url(../assets/week9.png);
 
 }
+
+.flex-item a#final{
+    background-image: url(../assets/final01.png);
+
+}
+
 
 
 
