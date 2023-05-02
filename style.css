@@ -101,7 +101,6 @@ footer{
      
 }
 
-<<<<<<< HEAD
 .flex-item a#week5{
     background-image: url(../assets/week5.png);
    
@@ -113,19 +112,6 @@ footer{
 
 .flex-item a#week9{
     background-image: url(../assets/week9.png);
-=======
-.flex-item a#week2{
-    background-image: url(./assets/tamagotchi.jpg);
-   
-}
-
-.flex-item a#week3{
-    background-image: url(./assets/week3.png);
-}
-
-.flex-item a#week4{
-    background-image: url(./assets/week4.png);
->>>>>>> c5829c758cc3171bb3203d438642d91063e0a75f
 
 }
 
