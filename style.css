@@ -84,15 +84,15 @@ footer{
 } */
 
 .flex-item a#my-first-item-id{
-    background-image: url(../assets/Term1Project1Cover.jpg);
+    background-image: url(./assets/Term1Project1Cover.jpg);
 }
 
 .flex-item a#my-second-item-id{
-    background-image: url(../assets/Term1Project2Cover.jpg);
+    background-image: url(./assets/Term1Project2Cover.jpg);
 }
 
 .flex-item a#week1{
-    background-image: url(../assets/week1.png);
+    background-image: url(./assets/week1.png);
      
 }
 
@@ -102,21 +102,21 @@ footer{
 }
 
 .flex-item a#week5{
-    background-image: url(../assets/week5.png);
+    background-image: url(./assets/week5.png);
    
 }
 
 .flex-item a#week8{
-    background-image: url(../assets/week8.png);
+    background-image: url(./assets/week8.png);
 }
 
 .flex-item a#week9{
-    background-image: url(../assets/week9.png);
+    background-image: url(./assets/week9.png);
 
 }
 
 .flex-item a#final{
-    background-image: url(../assets/final01.png);
+    background-image: url(./assets/final01.png);
 
 }
 
