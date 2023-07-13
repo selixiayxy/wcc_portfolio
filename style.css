@@ -102,7 +102,7 @@ footer{
 }
 
 .flex-item a#week5{
-    background-image: url("../assets/week5.png");
+    background-image: url("./assets/week5.png");
    
 }
 
@@ -111,12 +111,12 @@ footer{
 }
 
 .flex-item a#week9{
-    background-image: url("./assets/week9.png");
+    background-image: url("./assets/Week9.png");
 
 }
 
 .flex-item a#final{
-    background-image: url("https://github.com/selixiayxy/wcc_portfolio/blob/main/assets/final01.png");
+    background-image: url("./assets/final01.png");
 
 }
 
